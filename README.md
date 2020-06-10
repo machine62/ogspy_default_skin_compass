@@ -1,0 +1,1 @@
+# ogspy_default_skin_compass
